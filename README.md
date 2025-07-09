@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe - Python GUI Game
 
-This is a simple **two-player Tic Tac Toe** game built using **Python** and **Tkinter** for the graphical interface. It's beginner-friendly and lets you learn about event-driven programming, basic GUI design, and game logic.
+A beginner-friendly Tic Tac Toe game built with Python and Tkinter. Play locally with two players, track scores, and reset with a click — all in a simple, clean interface.
 
 ![image](https://github.com/user-attachments/assets/cf971f68-a525-4d34-b6d9-37c8ee2e20f1)
 
